@@ -89,4 +89,5 @@ added the **pros** and **cons** for each pattern.
 
 #### CI/CD
 1. [Index](ci-cd/index.md)
-2. [Docker](ci-cd/docker/index.md)
+2. [Git](ci-cd/git/index.md)
+3. [Docker](ci-cd/docker/index.md)

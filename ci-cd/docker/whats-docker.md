@@ -2,8 +2,6 @@
 
 [<- To Docker](./index.md)
 
-#### ELI5:
-
 #### (Explain Like I'm 5):
 Alright, imagine you're playing with building blocks. You have different shapes and sizes of blocks, and you're trying to build a cool castle.
 
