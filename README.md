@@ -87,3 +87,6 @@ added the **pros** and **cons** for each pattern.
 5. [Facade Pattern](design-patterns/structural/FacadePattern.md)
 6. [Proxy Pattern](design-patterns/structural/ProxyPattern.md)
 
+#### CI/CD
+1. [Index](ci-cd/index.md)
+2. [Docker](ci-cd/docker/index.md)
