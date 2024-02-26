@@ -1,4 +1,4 @@
-## CI/CD > Kubernetes > Containers
+## CI/CD > Kubernetes > Deployments and Services
 
 [<- To Kubernetes](./index.md)
 

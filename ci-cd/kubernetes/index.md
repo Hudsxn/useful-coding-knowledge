@@ -15,3 +15,4 @@
 10. [Upgrades and Rollbacks in Kubernetes](./upgrade-rollback-strats.md)
 11. [Integration with CI/CD Pipelines in Kubernetes](./ci-cd.md)
 12. [Cloud Provider Integrations with Kubernetes](./cloud-ci-cd.md)
+13. [Deployments & Services](./deployments-services.md)

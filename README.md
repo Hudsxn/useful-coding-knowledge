@@ -63,6 +63,7 @@ added the **pros** and **cons** for each pattern.
 5. [Command Pattern](design-patterns/behavioural/CommandPattern.md)
 6. [Chain of Responsibility Pattern](design-patterns/behavioural/ChainOfResponsibilityPattern.md)
 7. [Inversion of Control (IoC)](design-patterns/behavioural/InversionOfControl.md)
+8. [Mediator](design-patterns/behavioural/Mediator.md)
 
 ##### > Concurrency Patterns
 1. [Balking Pattern](design-patterns/concurrency/BalkingPattern.md)
